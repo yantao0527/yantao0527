@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frank Yan</h1>
-<h3 align="center"><a herf="https://www.upwork.com/freelancers/~01eea029b1550734f4">Freelancer</a> Full Stack Software Engineer</h3>
+<h3 align="center">Freelancer / Full Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yantao0527&label=Profile%20views&color=0e75b6&style=flat" alt="frank-yan" /> </p>
 
