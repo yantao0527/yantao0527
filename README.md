@@ -28,8 +28,6 @@ It also sets up CI/CD pipelines and various infrastructures for logging, monitor
 
 <p>Contact</p>
 
-- 💬 Assign a job to me through [Upwork](https://www.upwork.com/freelancers/~01eea029b1550734f4)
-
 - 📫 How to reach me **frankyan.work@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
