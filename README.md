@@ -19,6 +19,8 @@ I have worked on several projects using ChatGPT and other technologies. Some of 
 - Implementing AI-enhanced resume matching based on company recruitment requirements using FastAPI + ReactJS + OpenAI
 - Building ChatGPT telegram bot and researched FastChat to support LangChain integration and installing LangChain on AWS
 
+[Project List](projects.md)
+
 <p>Contact</p>
 
 - 📫 How to reach me **frankyan.work@gmail.com**
