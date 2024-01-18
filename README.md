@@ -3,21 +3,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yantao0527&label=Profile%20views&color=0e75b6&style=flat" alt="frank-yan" /> </p>
 
-I've been an expert in full stack development and software engineering for two decades.  I have learned and updated my skills by following the latest trends in technology.
 
-Some of my accomplishments include:
-- Creating websites and single page applications with React.js, Next.js, Angular, Vue, Three.js, WebGL, jQuery, HTML5, CSS3, Bootstrap, Tailwind CSS, Material UI, Storybook UI Components
-- Designing and implementing microservices using different languages and frameworks such as Python, FastAPI, Flask, Django, Node.js and Express.js, and using Database with MySQL, Postgres and MongoDB
-- Using open-source components and automation tools to build with AWS's built-in components
-- Developing core banking systems and integrated solutions for financial equipment
+I've been an expert in full stack development and software engineering for two decades. I have learned and updated my skills by following the latest trends in technology. 
 
-I practice DevOps skills daily by creating a project that uses Terraform and Ansible scripts to request and release various cloud resources, such as hosts, networks, domains, etc.
+Skills and Expertise: 
 
-I have worked on several projects using ChatGPT and other technologies. Some of my accomplishments include:
-- Building the Mattermost Bot with LangChain integration serves to streamline communication, automate tasks, and provide users with immediate and relevant information. Integrated Digital-1B Models on HuggingFace, Langchain, Pinecone, and RAG technologies by leveraging the power of Python and the flexibility of the Mattermost platform
-- Building a simple system that allows my friends in China to access ChatGPT using Express + TypeScript + ChatGPT and deploying it on Alibaba Cloud using Docker
-- Implementing AI-enhanced resume matching based on company recruitment requirements using FastAPI + ReactJS + OpenAI
-- Building ChatGPT telegram bot and researched FastChat to support LangChain integration and installing LangChain on AWS
+✅ Programming Languages: Proficient in JavaScript, TypeScript, C#, Python, and PHP. 
+
+✅ Backend Development: Experienced with .NET framework, ASP.NET MVC, Web API, Entity Framework, WCF, .NET Core, Graph API, FastAPI, Flask, Django, Laravel, and Symfony. 
+
+✅ Frontend Development: Skilled in Angular, Vue, React.js, Next.js, DevExpress, Blazor WebAssembly, Telerik UI, Kendo UI, Material UI, HTML5, CSS3, Tailwind CSS, jQuery, and Bootstrap. 
+
+✅ CMS Development: Proficient in WordPress, HubSpot, and Shopify, specializing in theme customization, plugin/app development, and workflow enhancement. 
+
+✅ Databases: Knowledgeable in MySQL, MS SQL, SQL Server, Azure SQL, MongoDB, PostgreSQL, and Amazon RDS. 
+
+✅ API Development: Experienced in Swagger, REST APIs, and data formats like JSON and XML. 
+
+✅ 3rd Party Services: Skilled in integrating Stripe, Netsuite, and SharePoint Framework. 
+
+✅ Tools: Adept with Visual Studio, Git (GitHub/Bitbucket), AWS, Microsoft Azure, Jenkins, Docker, Terraform, and Ansible. 
+
+✅ Software Development Life Cycle (SDLC): Proficient in SCRUM, Agile, and DevOps methodologies. 
+
+✅ AI and Machine Learning: Familiar with LangChain, OpenAI, and ChatGPT. 
+
+✅ Platforms: Comfortable working on macOS, Linux, and Windows Server. 
+
+I am available for 40-60 hours per week and am open to discussing the project through either calls or text, based on your preference.
+
 
 [Project List](projects.md)
 
